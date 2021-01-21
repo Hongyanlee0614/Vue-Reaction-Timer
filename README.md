@@ -1,4 +1,5 @@
-# vue_reactiontimer
+# Reaction Timer
+[Link to website](https://reaction-time-by-angelol2046.netlify.app/)
 
 ## Project setup
 ```
