@@ -1,4 +1,4 @@
-# Reaction Timer
+# Reaction Timer (Old Version)
 [Link to website](https://reaction-time-by-angelol2046.netlify.app/)
 
 ## Project setup
